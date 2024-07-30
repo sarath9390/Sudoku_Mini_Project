@@ -63,7 +63,7 @@ The Sudoku Solver leverages data structures and algorithms (DSA) concepts, parti
     <th>Test</th>
   </tr>
   <tr>
-    <td><img src="sudoku.png" alt="Play Image" width="200" height="200"></td>
+    <td><img src="sudoku.jpg.png" alt="Play Image" width="200" height="200"></td>
     <td><img src="test.png" alt="Test Image" width="200" height="200"></td>
   </tr>
 </table>
